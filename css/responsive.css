@@ -142,6 +142,7 @@
     .logo {
         text-align: center;
         display: block;
+        margin-bottom: 2.5em;
     }
     .slider_section {
         min-height: inherit;
@@ -212,6 +213,7 @@
     .logo {
         text-align: center;
         display: block;
+        margin-bottom: 2.5em;
     }
     .right_header_info {
         padding-bottom: 20px;
